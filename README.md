@@ -70,8 +70,8 @@ guage their understanding of the nuances of the model and its
 architecture, understanding of library calls invoked, and expertise of
 language constructs.
 
-### Content Image : [[file:c:/Users/VasantJain/Pictures/Kinkaku-ji.jpg][Japanese-garden]]
-### Style image   :  [[file:c:/Users/VasantJain/Pictures/picasso_selfport1907.jpg][Picasso-style]]
+### Content Image : japanese_garden.jpg
+### Style image   : picasso_selfportrait.jpg
 
 
 
