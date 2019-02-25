@@ -47,6 +47,7 @@ The problem is to produce an image that contains a content as in the
 content image.
 
 *General Guideline* 
+
 One point to note here is that the image should only contain the
 content(as in a rough sketch of the content image and not the texture
 from the content image, since the output should contain a style
@@ -58,6 +59,7 @@ The problem is to produce an image which contains the style as in the
 style image.  
 
 *General Guideline*
+
 Compute **MSE loss between gram matrix of input and the style image** and
 you should be good to generate an input image with the required style.
 Publish the model details, output results and model metrics.
@@ -70,8 +72,8 @@ guage their understanding of the nuances of the model and its
 architecture, understanding of library calls invoked, and expertise of
 language constructs.
 
-### Content Image : japanese_garden.jpg
-### Style image   : picasso_selfportrait.jpg
+### Content Image : japanese_garden.jpg (in this repo)
+### Style image   : picasso_selfportrait.jpg (in this repo)
 
 
 
