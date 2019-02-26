@@ -107,10 +107,10 @@ understanding of library calls invoked, and expertise of language constructs.
 1. How to get started : 
    It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
    If not, follow these basic steps on your localhost :
-```shell
-mkdir  my_challenge_project
-cd my_challenge_project
-git clone git@github.com:myelin-foundry/challenge.git 
+```bash
+$ mkdir my_challenge_project
+$ cd my_challenge_project
+$ git clone git@github.com:myelin-foundry/challenge.git 
 ```
 
   This should create the subdirectory 'challenge' under  the directory 'my_challenge_project'  on your localhost with all 
