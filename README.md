@@ -108,7 +108,7 @@ understanding of library calls invoked, and expertise of language constructs.
 # *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
 
 
-### * SUBMISSION OF SOLUTION*
+### *SUBMISSION OF SOLUTION*
 
 1. How to get started : 
 It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
