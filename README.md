@@ -110,8 +110,8 @@ understanding of library calls invoked, and expertise of language constructs.
 ```bash
 $ mkdir my_challenge_project
 $ cd my_challenge_project
-$ git clone git@github.com:myelin-foundry/challenge.git  #if you are using SSH
-$ https://github.com/myelin-foundry/challenge.git  #if you are using HTTPS
+$ git clone git@github.com:myelin-foundry/challenge.git  # if you are using SSH, or 
+$ git clone https://github.com/myelin-foundry/challenge.git  # if you are using HTTPS
 ```
 
   This should create the subdirectory 'challenge' under  the directory 'my_challenge_project'  on your localhost with all 
