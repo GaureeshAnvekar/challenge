@@ -108,7 +108,7 @@ understanding of library calls invoked, and expertise of language constructs.
    It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
    If not, follow these basic steps on your localhost :
 ```bash
-$ mkdir my_challenge_project
+$ md my_challenge_project
 $ cd my_challenge_project
 $ git clone git@github.com:myelin-foundry/challenge.git 
 ```
