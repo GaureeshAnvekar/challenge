@@ -102,9 +102,7 @@ Each participating team will be scored on the implementation of the machine lear
 The short listed teams will undergo tcon to guage their understanding of the nuances of the model and its architecture, 
 understanding of library calls invoked, and expertise of language constructs.
 
-
-
-### *SUBMISSION OF SOLUTION*
+###    *SUBMISSION OF SOLUTION*
 
 1. How to get started : 
    It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
