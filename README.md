@@ -102,10 +102,6 @@ Each participating team will be scored on the implementation of the machine lear
 The short listed teams will undergo tcon to guage their understanding of the nuances of the model and its architecture, 
 understanding of library calls invoked, and expertise of language constructs.
 
-<a id="org7199751"></a>
-# *Content Image* : [Japanese_garden](https://github.com/myelin-foundry/challenge/blob/master/japanese_garden.jpg)
-<a id="orgbdd1c6b"></a>
-# *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
 
 
 ### *SUBMISSION OF SOLUTION*
@@ -131,4 +127,9 @@ git clone git@github.com:myelin-foundry/challenge.git
    - emailing the  jupyter notebook to vasant@myelinfoundry.com, or 
    - creating your personal GitHub repo, uploading your solution as jupyter notebook to your  created repo and email the
      GitHub repo link to vasant@myelinfoundry.com
+
+<a id="org7199751"></a>
+# *Content Image* : [Japanese_garden](https://github.com/myelin-foundry/challenge/blob/master/japanese_garden.jpg)
+<a id="orgbdd1c6b"></a>
+# *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
 
