@@ -108,4 +108,19 @@ understanding of library calls invoked, and expertise of language constructs.
 # *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
 
 
+### * SUBMISSION OF SOLUTION*
+
+1. How to get started : 
+It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
+If not, follow these basic steps on your localhost :
+mkdir  my_challenge_project
+cd my_challenge_project
+git clone git@github.com:myelin-foundry/challenge.git 
+This should create the subdirectory 'challenge' under  the directory 'my_challenge_project'  on your localhost with all the necessary files
+
+2. Now that you have an exact clone of the instructions and the image files, you work on your localhost to create the model which will address what this challenge exercise is about. As mentioned above, you need to use Python 3.x as your programming language and develop the solution using Jupyter Notebook format provided under Python Standard Library.  
+
+3. Once your problem is solved, you can submit your solution ( before the closing date which was provided in the instruction document in the welcome email) by either 
+emailing the  jupyter notebook to vasant@myelinfoundry.com, or 
+creating your personal GitHub repo, uploading your solution as jupyter notebook to your  created repo and email the GitHub repo link to vasant@myelinfoundry.com
 
