@@ -105,10 +105,10 @@ understanding of library calls invoked, and expertise of language constructs.
 ###    *SUBMISSION OF SOLUTION*
 
 1. How to get started : 
-   It is assumed if you have reached this page is that you know how to connect to GitHub and clone this repository.
+   It is assumed if you have reached this page, you know how to connect to GitHub and clone this repository.
    If not, follow these basic steps on your localhost :
 ```bash
-$ md my_challenge_project
+$ mkdir my_challenge_project
 $ cd my_challenge_project
 $ git clone git@github.com:myelin-foundry/challenge.git  #if you are using SSH
 $ https://github.com/myelin-foundry/challenge.git  #if you are using HTTPS
