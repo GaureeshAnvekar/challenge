@@ -103,9 +103,9 @@ The short listed teams will undergo tcon to guage their understanding of the nua
 understanding of library calls invoked, and expertise of language constructs.
 
 <a id="org7199751"></a>
-# *Content Image* : [https://github.com/myelin-foundry/challenge/blob/master/japanese_garden.jpg] (file in repo)
+# *Content Image* : [Japanese_garden](https://github.com/myelin-foundry/challenge/blob/master/japanese_garden.jpg)
 <a id="orgbdd1c6b"></a>
-# *Style image*   :  [Picasso_selfportrait] (file in repo)
+# *Style image*   :  [Picasso_selfportrait](https://github.com/myelin-foundry/challenge/blob/master/picasso_selfportrait.jpg)
 
 
 
