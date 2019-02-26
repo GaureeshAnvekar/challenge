@@ -1,5 +1,5 @@
 
-﻿﻿﻿# ﻿﻿﻿CHALLENGE EXERCISE
+
 
 # Table of Contents
 
@@ -16,7 +16,7 @@
 <a id="org9124e2a"></a>
 
 
-
+# CHALLENGE EXERCISE
 ###  *Problem*
 
 Objective  is to apply the style of an image, which we will term as
